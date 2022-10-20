@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tamygutz
-- 👀 I’m interested in ... travelling, languages, python, java, java script, doing exercise. 
-- 🌱 I’m currently learning ...  python and DB.
-- 💞️ I’m looking to collaborate on ... python projects and DB 
-- 📫 How to reach me ... instagram jajaja @tamygutz follow me. 
+- 👀 I’m interested in ... testing, languages, python, java, java script, node, react, bootstrap. 
+- 🌱 I’m currently learning ...  React and Node.
+- 💞️ I’m looking to collaborate on ... React projects qith programmers around the world. 
+- 📫 How to reach me ... linkedIn www.linkedin.com/in/tamara-gutz. 
 
 <!---
 tamygutz/tamygutz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
